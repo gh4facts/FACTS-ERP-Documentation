@@ -1,4 +1,8 @@
-# Introduction to FACTS ERP & Customization
+---
+layout: page
+title: "Introduction to FACTS ERP & Customization"
+permalink: /introduction/
+---
 
 ## Introduction
 
