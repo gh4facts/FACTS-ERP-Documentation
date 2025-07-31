@@ -1,4 +1,4 @@
-remote_theme: "jekyll/minima@1e8a445"
+remote_theme: cayman@v0.2.0
 plugins:
   - jekyll-remote-theme
 markdown: GFM
