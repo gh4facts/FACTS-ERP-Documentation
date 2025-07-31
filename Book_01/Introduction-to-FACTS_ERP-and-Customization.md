@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Introduction to FACTS ERP & Customization"
 permalink: /introduction/
 ---
